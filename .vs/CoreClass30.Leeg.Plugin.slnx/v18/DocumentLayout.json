@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\\u7ACB\u6E0A\\source\\repos\\explore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD70C076-9881-41A3-8393-191410BEFE7E}|..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\CoreClass30.Leeg.Plugin.csproj|c:\\users\\\u7ACB\u6E0A\\desktop\\phxh2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\code\\coreclass30.leeg.plugin\\manager\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD70C076-9881-41A3-8393-191410BEFE7E}|..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\CoreClass30.Leeg.Plugin.csproj|c:\\users\\\u7ACB\u6E0A\\desktop\\phxh2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\code\\coreclass30.leeg.plugin\\manager\\leegsignaldriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -13,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +25,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Bookmark",
@@ -34,12 +41,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u7ACB\u6E0A\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\\u7ACB\u6E0A\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:58:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LeegSignalDriver.cs",
               "DocumentMoniker": "C:\\Users\\\u7ACB\u6E0A\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\LeegSignalDriver.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\LeegSignalDriver.cs",
               "ToolTip": "C:\\Users\\\u7ACB\u6E0A\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\LeegSignalDriver.cs",
               "RelativeToolTip": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\LeegSignalDriver.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T05:40:30.592Z",
               "EditorCaption": ""
