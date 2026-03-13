@@ -20,15 +20,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -39,6 +35,10 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ButtonManager.cs",
@@ -46,7 +46,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
               "ToolTip": "C:\\Users\\\u7ACB\u6E0A\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
               "RelativeToolTip": "..\\..\\..\\Desktop\\PHXH2509010-master\\phxh2509010\\2\u63D2\u4EF6\u4EE3\u7801\\Code\\CoreClass30.Leeg.Plugin\\Manager\\ButtonManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T05:58:22.188Z",
               "EditorCaption": ""
